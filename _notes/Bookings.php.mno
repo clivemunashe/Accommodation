@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_BookUsers" value="name:BookID;datatype:int,name:Name;datatype:string,name:Surname;datatype:string,name:Sex;datatype:string,name:Address;datatype:string,name:Campus;datatype:string,name:Date;datatype:timestamp,name:MoveInDate;datatype:date,name:MoveOutDate;datatype:date" />
+	<infoitem key="UD_BookUser" value="name:BookID;datatype:int,name:Name;datatype:string,name:Surname;datatype:string,name:Sex;datatype:string,name:Address;datatype:string,name:Campus;datatype:string,name:Date;datatype:timestamp,name:MoveInDate;datatype:string,name:MoveOutDate;datatype:string" />
+</info>
